@@ -27,7 +27,7 @@ public class App {
             System.out.print("Enter amount for withdraw: ");
             Double amount = sc.nextDouble();
             account.withdraw(amount);
-            System.out.println("New balance: " + account.getBalance());
+            System.out.println("New balance: " + String.format("%.2f", account.getBalance()));
         }
         catch (DomainExceptions e) {
             System.out.println("Withdraw error: " + e.getMessage());

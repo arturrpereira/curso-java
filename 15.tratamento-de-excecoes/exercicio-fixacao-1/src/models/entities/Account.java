@@ -9,6 +9,10 @@ public class Account {
     private Double balance;
     private Double withDrawLimite;
     
+    public Account() {
+
+    }
+
     public Account(Integer number, String holder, Double balance, Double withDrawLimite) {
         this.number = number;
         this.holder = holder;
