@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\java-libs\\mysql-connector\\mysql-connector-java-8.0.29.jar",
+        "e:\\java-libs\\javafx-sdk\\lib\\javafx.base.jar",
+        "e:\\java-libs\\javafx-sdk\\lib\\javafx.controls.jar",
+        "e:\\java-libs\\javafx-sdk\\lib\\javafx.fxml.jar",
+        "e:\\java-libs\\javafx-sdk\\lib\\javafx.graphics.jar",
+        "e:\\java-libs\\javafx-sdk\\lib\\javafx.media.jar",
+        "e:\\java-libs\\javafx-sdk\\lib\\javafx.swing.jar",
+        "e:\\java-libs\\javafx-sdk\\lib\\javafx.web.jar",
+        "e:\\java-libs\\javafx-sdk\\lib\\javafx-swt.jar"
+    ]
+}
